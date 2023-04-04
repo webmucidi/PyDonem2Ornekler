@@ -9,7 +9,7 @@ uye3 = Uye("aysebakir@icloud.com", "prenses123")
 uye4 = Uye("mustafasari@icloud.com", "sari123")
 uye5 = Uye("bedirhanSapkali@icloud.com", "kel123")
 
-print(self.eposta)
+print()
 
 girilenEPosta = input("Lütfen E-Posta adresinizi giriniz...")
 if ((girilenEPosta == uye1.eposta) or (girilenEPosta == uye2.eposta) or (girilenEPosta == uye3.eposta)):
