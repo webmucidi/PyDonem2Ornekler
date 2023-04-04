@@ -19,8 +19,8 @@ E1.grid(padx=110, pady=3)
 
 B1=Button(uygulama,text="Kaydet")
 B1.grid(padx=110, pady=5)
+
  
-#formu çiz
 pencere.mainloop()
 
 
